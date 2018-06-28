@@ -1,0 +1,103 @@
+box-shadow.ThreePlatformDiv {
+	width: 100%;
+	height: 500px;
+}
+
+.ThreePlateformPosition {
+	text-align: center;
+	position: relative;
+	top: 100px;
+}
+
+.positionboxT {
+	position: relative;
+	top: 40px;
+}
+
+.box1T {
+	width: 300px;
+	height: 335px;
+	display: inline-block;
+	color: #fff;
+	background-color: #17e8ef;
+	border: 1px solid #02d9e0;
+}
+.box1T h4 {
+	font-size: 20px;
+	text-transform: uppercase;
+	margin-bottom: 20px;
+}
+.box1T p {
+	width: 250px;
+	margin: 0 auto;
+	margin-bottom: 25px;
+}
+.bookASession {
+	border: 1px solid #fff;
+	width: 180px;
+	height: 20px;
+	padding: 5px;
+	margin: 0 auto;
+	box-shadow: 5px 4px 0px #000;	
+}
+
+.box2T {
+	width: 300px;
+	height: 335px;
+	display: inline-block;
+	border: 1px solid #3b4250;
+	color: #fff;
+	background-color: #4b5465;
+	position: relative;
+	bottom: 18px;
+	}
+.box2T h4 {
+	font-size: 20px;
+	text-transform: uppercase;
+	margin-bottom: 20px;
+}
+.box2T p {
+	width: 250px;
+	margin: 0 auto;
+	margin-bottom: 25px;
+}
+.orderYourPlan {
+	border: 1px solid #fff;
+	width: 180px;
+	height: 20px;
+	padding: 5px;
+	margin: 0 auto;
+	position:  relative;
+	top: 17px;
+	box-shadow: 5px 4px 0px #000;
+}
+
+.box3T {
+	width: 300px;
+	height: 335px;
+	display: inline-block;
+	border: 1px solid #4f6496;
+	background-color:#607ab7;
+	color: #fff;
+	position: relative;
+	}
+
+.box3T h4 {
+	font-size: 20px;
+	text-transform: uppercase;
+	margin-bottom: 20px;
+}
+.box3T p {
+	width: 250px;
+	margin: 0 auto;
+	margin-bottom: 25px;
+}
+.bookAClass {
+	border: 1px solid #fff;
+	width: 180px;
+	height: 20px;
+	padding: 5px;	
+	margin: 0 auto;
+	box-shadow: 5px 4px 0px #000;
+}
+

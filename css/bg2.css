@@ -1,0 +1,46 @@
+.imgloc1 {
+	background: url(../img/picture01.jpg);
+	background-size: cover;
+	background-position: center;
+	width: 600px;
+	height: 420px;
+	float: right;
+	background-repeat: no-repeat;
+	position: relative;
+	right: 200px;
+	top: 100px;
+	/* overflow: hidden; */
+}
+
+
+.PPloc1 {
+	background-color: #17e8ef;
+	width: 430px;
+	height: 230px;
+	position:  relative;
+	left: 166px;
+	top: 135px;
+	padding: 50px;
+	line-height: 30px;
+	font-family: 'Roboto Slab', serif;
+	/* overflow: visible; */
+}
+
+.aboutme1  {
+	border: 1;
+	background-color: #243144;
+	width: 175px;
+	height: 30px;
+	font-size: 13px;
+	color: #17e8ef;
+	text-align: center;
+	padding-top: 15px;
+	letter-spacing: 2px;
+	/* word-spacing: 1px; */
+	text-transform: uppercase;
+	box-shadow: blue;
+	box-shadow: 5px 4px 0px #17e8ef;
+	position: relative;
+	left: 165px;
+	top: 158px;
+}

@@ -1,0 +1,132 @@
+.positionFooter {
+	width: 100%;
+	height: 300px;
+}
+
+.realPositionFooter {
+	text-align: center;
+	width: 800px;
+	height: 300px;
+	position: relative;
+	top: 70px;
+	right: 30px;
+	margin: 0 auto;
+}
+
+
+.leftSideFooter {
+	display;
+	inline-block;
+	width: 350px;
+	height: 300px;
+	/* background-color: red; */
+	float: left;
+}
+
+.rightSideFooter {
+	display;
+	inline-block;
+	width: 450px;
+	height: 300px;
+	/* float: right; */
+	float:  left;
+	position: relative;
+	left: 130px;
+	/* background-color: red; */
+}
+		
+.ftext01 {
+	width: 350px;
+	color: #17e8ef;
+	text-transform: uppercase;
+	margin-right: 25px;
+	font-size: 25px;
+}
+.ftext01 h3 {}	
+
+.ftext02 {
+	width: 350px;
+	font-size: 20px;
+	margin-left: 25px;
+}
+.ftext02 h4 {
+	color: #fff;
+}
+
+.footerText {
+	margin-top: 60px;
+}
+
+.footerText li{
+	display: inline-block;
+	margin: 0 auto;
+}
+
+.footerText ul { position: relative; right: 50px;}
+
+.footerText li a {
+	font-size: 12px;
+	color: #17e8ef;
+	text-decoration: none;
+	margin-left: 15px;
+
+}
+
+.copyRights {
+	font-size: 12px;
+	color: #fff;
+	margin-top: 20px;
+}
+
+.socialMediaDivs {
+	position: relative;
+	bottom: 40px;
+}
+
+.socialMediaDivs li {
+
+}
+
+.socialMediaDivs a {
+	color: #fff;
+}
+
+.SMDC {
+	display: inline-block;
+	margin-left: 15px;
+	position: relative;
+	top: 150px;
+	right: 50px;
+	font-size: 11px;
+	color: #17e8ef;
+}
+
+.callmeNowDiv {
+	width: 150px;
+	height: 50px;
+	position: relative;
+	top: 50px;
+	left: 90px;
+
+}
+
+.callmeNowDiv h5 {color: #fff;}
+.cnnDiv {/* color: #fff; */}
+
+.cnnDiv a {
+	color: #17e8ef;
+}
+
+.phoneDiv {
+	margin-bottom: 13px;
+}
+
+
+
+
+
+
+
+
+
+				

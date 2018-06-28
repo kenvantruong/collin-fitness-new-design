@@ -1,0 +1,57 @@
+.testimonydiv1 {
+	width: 100%;
+	height: 550px;
+	position: relative;
+	top: 100px;
+}
+
+.testimonyPositionDiv {
+	text-align: center;
+	width: 950px;
+	margin: 0 auto;
+}
+
+.testimonyH1 {
+	color: #fff;
+	font-size: 20px;
+	text-transform: uppercase;
+}
+.verticalHR {
+	border-left: 1px solid #fff;
+	width: 100px;
+	height: 70px;
+	margin: 0 auto;
+	position: relative;
+	left: 50px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.testimonyImgDiv {
+	width: 70px;
+	height: 70px;
+	display: inline-block;
+	margin-right: 20px;
+}
+
+
+.testimonyImg {
+	background: url(../img/testimonyimg.jpg);
+	border-radius: 50%;
+	border: 2.5px solid #4b5465;
+	width: 100%;
+	height: 100%;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.nameOfTesty {
+	display: inline-block;
+	position: relative;
+	bottom: 18px
+}
+.nameOfTesty h4:nth-child(1) {	
+	color: #17e8ef; 
+	margin-bottom: 11px;
+}
+.nameOfTesty h4:nth-child(2) { color: #fff;}
